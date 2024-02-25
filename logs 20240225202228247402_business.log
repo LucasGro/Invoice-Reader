@@ -1,6 +1,0 @@
-levelname | asctime | message
-INFO | 2024-02-25 20:22:28 | Bot Started
-INFO | 2024-02-25 20:22:28 | Bot Located input data
-INFO | 2024-02-25 20:22:28 | Files located in input folder are: ['Invoice1.pdf', 'Invoice2.pdf', 'Invoice3.pdf', 'Invoice4.pdf'].
-INFO | 2024-02-25 20:22:29 | Success. Number of items processed: 4
-INFO | 2024-02-25 20:22:29 | Bot Finished
