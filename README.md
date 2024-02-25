@@ -12,7 +12,7 @@ This script is designed to read specific data from a set of invoices. The data t
 
 2. **Install the required Python packages**: `openpyxl`, `pdfminer.six`, and `pandas`. You can install them using pip with the following command:
    
-   pip install openpyxl pdfminer.six pandas
+  ``` pip install openpyxl pdfminer.six pandas```
 
 
 3. **Clone this repository** to your local machine or download the script `__main__.py` directly.
