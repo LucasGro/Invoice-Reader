@@ -1,0 +1,17 @@
+levelname,asctime,module, filename, lineno, funcName, message
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 12, inner_wrapper, Starting execution of funtion input_folder_check
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 14, inner_wrapper, Finished execution of function input_folder_check
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 26, __init__, Initialize reader instance
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 31, __init__, Initialization completed.
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 12, inner_wrapper, Starting execution of funtion recognized_file_structure
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 41, recognized_file_structure, Files located in input folder. Amount: 4.
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 14, inner_wrapper, Finished execution of function recognized_file_structure
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 12, inner_wrapper, Starting execution of funtion recognized_file_names
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 55, recognized_file_names, Files located in input folder are: [{'File Name': 'Invoice1'}, {'File Name': 'Invoice2'}, {'File Name': 'Invoice3'}, {'File Name': 'Invoice4'}].
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 14, inner_wrapper, Finished execution of function recognized_file_names
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 12, inner_wrapper, Starting execution of funtion extractor
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 14, inner_wrapper, Finished execution of function extractor
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 12, inner_wrapper, Starting execution of funtion save_to_xls
+INFO,2024-02-25 17:55:45,xls_writer, xls_writer.py, 24, to_xls, Creating new xls file in path: ./output/list_of_invoice.xlsx
+INFO,2024-02-25 17:55:45,xls_writer, xls_writer.py, 33, to_xls, Success. Number of lines written: 4
+INFO,2024-02-25 17:55:45,reader_integrator, reader_integrator.py, 14, inner_wrapper, Finished execution of function save_to_xls

@@ -1,0 +1,10 @@
+{
+"Folder" : {
+  "Input" : "./input"
+},
+  "xls" : {
+    "destination" : {
+      "Output" : "./output/list_of_invoice.xlsx"
+    }
+  }
+}
